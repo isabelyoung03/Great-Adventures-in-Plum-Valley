@@ -8,7 +8,7 @@ using Microsoft.Xna.Framework;
 
 namespace Great_Adventures_in_Plum_Valley
 {
-    class Backgrounds
+    class Backgrounds //objective 4.2
     {
         public Texture2D texture;
         public Rectangle rectangle;
@@ -18,6 +18,14 @@ namespace Great_Adventures_in_Plum_Valley
         }
     }
 
+    class Still : Backgrounds
+    {
+        public Still(Texture2D newTexture)
+        {
+            texture = newTexture;
+            rectangle = new Rectangle(0, 0, 800, 480);
+        }
+    }
     class Scrolling : Backgrounds
     {
         public Scrolling(Texture2D newTexture, Rectangle newRectangle)
@@ -26,51 +34,17 @@ namespace Great_Adventures_in_Plum_Valley
             rectangle = newRectangle;
         }
 
-        public void Update(string direction, int backgroundID)
+        public void Update(string direction, int backgroundID) //moves the backgrounds based on the bears direction of movement
         {
-            // 1 = clouds
-            // 2 = hills
-            // 3 = ground
-            
-            if (backgroundID == 1)
+            if (direction == "right")
             {
-                if (direction == "right")
-                {
-                    rectangle.X -= 1; //move clouds left if player moving right
-                }
-
-                if (direction == "left")
-                {
-                    rectangle.X += 1;
-                }
+                rectangle.X -= backgroundID;
             }
 
-            if (backgroundID == 2)
+            if (direction == "left")
             {
-                if (direction == "right")
-                {
-                    rectangle.X -= 2; 
-                }
-
-                if (direction == "left")
-                {
-                    rectangle.X += 2;
-                }
+                rectangle.X += backgroundID;
             }
-
-            if (backgroundID == 3)
-            {
-                if (direction == "right")
-                {
-                    rectangle.X -= 3;
-                }
-
-                if (direction == "left")
-                {
-                    rectangle.X += 3;
-                }
-            }
-
         }
     }
 }

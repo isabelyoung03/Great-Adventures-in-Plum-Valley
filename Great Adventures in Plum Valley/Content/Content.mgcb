@@ -13,11 +13,23 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin ../../../../../OneDrive/Documents/Plum Valley Music/Lively Meadow Collection/Lively Meadow Victory Fanfare.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:../../../../../OneDrive/Documents/Plum Valley Music/Lively Meadow Collection/Lively Meadow Victory Fanfare.wav;Lively Meadow Victory Fanfare.wav
+
 #begin ../../../../../OneDrive/Documents/Plum Valley Music/Lively Meadow Collection/Lively Meadow.mp3
 /importer:Mp3Importer
 /processor:SongProcessor
 /processorParam:Quality=Best
 /build:../../../../../OneDrive/Documents/Plum Valley Music/Lively Meadow Collection/Lively Meadow.mp3;Lively Meadow.mp3
+
+#begin ../../../../../OneDrive/Documents/Plum Valley Music/Plum Sound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:../../../../../OneDrive/Documents/Plum Valley Music/Plum Sound.wav;Plum Sound.wav
 
 #begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Clouds1.png
 /importer:TextureImporter
@@ -31,6 +43,54 @@
 /processorParam:TextureFormat=Color
 /build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Clouds1.png;Clouds1.png
 
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkForest1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkForest1.png;DarkForest1.png
+
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkGround1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkGround1.png;DarkGround1.png
+
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkTrees1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/DarkTrees1.png;DarkTrees1.png
+
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Game Over Screen.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Game Over Screen.png;Game Over Screen.png
+
 #begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Ground1.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -43,18 +103,6 @@
 /processorParam:TextureFormat=Color
 /build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Ground1.png;Ground1.png
 
-#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Ground2.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Ground2.png;Ground2.png
-
 #begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Hills1.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -66,18 +114,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Hills1.png;Hills1.png
-
-#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Hills2.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Hills2.png;Hills2.png
 
 #begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Save File Screen.png
 /importer:TextureImporter
@@ -103,7 +139,7 @@
 /processorParam:TextureFormat=Color
 /build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Title Screen.png;Title Screen.png
 
-#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Start message.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Tree.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -113,9 +149,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Start message.png;Start message.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Backgrounds/Tree.png;Tree.png
 
-#begin Backgrounds/forest.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Blank button pressed.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -125,9 +161,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Backgrounds/forest.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Blank button pressed.png;Blank button pressed.png
 
-#begin Backgrounds/Title Screen.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button hover.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -137,9 +173,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Backgrounds/Title Screen.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button hover.png;Start button hover.png
 
-#begin Backgrounds/Tree.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button pressed.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -149,9 +185,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Backgrounds/Tree.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button pressed.png;Start button pressed.png
 
-#begin Buttons/Blank button pressed.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -161,9 +197,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Buttons/Blank button pressed.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Buttons/Start button.png;Start button.png
 
-#begin Buttons/Start button pressed.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterLeft1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -173,9 +209,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Buttons/Start button pressed.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterLeft1.png;CharacterLeft1.png
 
-#begin Buttons/Start button.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterLeft2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -185,9 +221,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Buttons/Start button.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterLeft2.png;CharacterLeft2.png
 
-#begin Character/Character with sword.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterRight1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -197,9 +233,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Character/Character with sword.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterRight1.png;CharacterRight1.png
 
-#begin Character/Character.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterRight2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -209,9 +245,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Character/Character.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Character/CharacterRight2.png;CharacterRight2.png
 
-#begin Clouds2.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Enemies/Blob enemy.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -221,9 +257,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Clouds2.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Enemies/Blob enemy.png;Blob enemy.png
 
-#begin Enemies/Blob enemy.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Enemies/Spider enemy.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -233,9 +269,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Enemies/Blob enemy.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Enemies/Spider enemy.png;Spider enemy.png
 
-#begin Enemies/Spider enemy.png
+#begin ../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Items/Plum.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -245,9 +281,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Enemies/Spider enemy.png
+/build:../../../../../OneDrive/Pictures/Saved Pictures/Plum Valley/Items/Plum.png;Plum.png
 
-#begin Items/Plum.png
+#begin BagOfPlums.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -257,21 +293,15 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Items/Plum.png
+/build:BagOfPlums.png
 
-#begin Items/Sword.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Items/Sword.png
+#begin Castle music.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Castle music.mp3
 
-#begin Tree.png
+#begin Castle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -281,5 +311,367 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Tree.png
+/build:Castle.png
+
+#begin CastleBackground.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CastleBackground.png
+
+#begin CharacterLeft1Hurt.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterLeft1Hurt.png
+
+#begin CharacterLeft1MB.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterLeft1MB.png
+
+#begin CharacterLeft2MB.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterLeft2MB.png
+
+#begin CharacterRight1Hurt.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterRight1Hurt.png
+
+#begin CharacterRight1MB.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterRight1MB.png
+
+#begin CharacterRight2MB.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CharacterRight2MB.png
+
+#begin Countdown.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Countdown.spritefont
+
+#begin Countdown.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Countdown.spritefont
+
+#begin Flag.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Flag.png
+
+#begin Game Over Sound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Game Over Sound.wav
+
+#begin HappyEndingScene.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:HappyEndingScene.png
+
+#begin Hurt Sound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Hurt Sound.wav
+
+#begin Level Summary Hover.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Level Summary Hover.png
+
+#begin Level Summary.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Level Summary.png
+
+#begin Magic Boots Sound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Magic Boots Sound.wav
+
+#begin MagicBoots.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:MagicBoots.png
+
+#begin Monkey-Island-Band.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Monkey-Island-Band.mp3
+
+#begin Save File Screen A.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Save File Screen A.png
+
+#begin Save File Screen B.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Save File Screen B.png
+
+#begin Save File Screen C.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Save File Screen C.png
+
+#begin ScaryCastle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:ScaryCastle.png
+
+#begin Scene1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Scene1.png
+
+#begin Scene2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Scene2.png
+
+#begin Scene3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Scene3.png
+
+#begin Scene4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Scene4.png
+
+#begin Spider enemy.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Spider enemy.png
+
+#begin SpookyCastle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:SpookyCastle.png
+
+#begin TheEnd.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:TheEnd.png
+
+#begin WaspLeft.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:WaspLeft.png
+
+#begin WaspLeftHurt.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:WaspLeftHurt.png
+
+#begin WaspRight.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:WaspRight.png
+
+#begin WaspRightHurt.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:WaspRightHurt.png
 
